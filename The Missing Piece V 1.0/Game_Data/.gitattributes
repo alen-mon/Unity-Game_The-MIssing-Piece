@@ -1,0 +1,2 @@
+*.res5 filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
